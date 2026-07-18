@@ -1,0 +1,19 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Julia
+Manifest-v*.toml
+
+# Python
+__pycache__/
+*.pyc
+
+# DuckDB
+*.duckdb
+
+# Système
+.DS_Store
+Thumbs.db
