@@ -15,7 +15,7 @@ Ville de Montréal.
 ### Pourquoi cette séparation
 
 Le mandat demandait explicitement une **analyse reproductible en R**, évaluée notamment sur la maîtrise de R et du package `sf`
-(20 % de la pondération). Le dossier `cas_technique_R/` répond exactement à ça,
+(20 % de la pondération). Le dossier `R/` répond exactement à ça,
 sans rien d'autre.
 
 Le dossier `exploration_complementaire/` documente un travail que j'ai fait de
