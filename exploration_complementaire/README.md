@@ -1,9 +1,5 @@
 # Exploration complémentaire (hors mandat du cas technique)
 
-**Ce dossier n'est pas le livrable demandé par Habitat.** Le mandat officiel du
-cas technique portait spécifiquement sur R (voir `../cas_technique_R/`), en 60 à
-90 minutes.
-
 Ce qui suit est une initiative personnelle, réalisée en dehors du temps du test,
 pour valider les résultats obtenus en R avec d'autres outils de mon stack
 technique habituel, et pour montrer comment j'aborde la reproductibilité et le
