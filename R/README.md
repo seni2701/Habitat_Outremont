@@ -1,8 +1,4 @@
-# Cas technique Habitat — Composition des arbres publics d'Outremont
-
-Ce dossier est **le livrable officiel du cas technique**, réalisé en R conformément
-au mandat (60 à 90 minutes, brief fourni par Habitat). Aucun autre langage n'est
-utilisé ici — c'est volontaire, pour rester strictement dans le cadre demandé.
+# Composition des arbres publics d'Outremont
 
 Le dossier `exploration_complementaire/` à la racine du dépôt contient un travail
 distinct, fait de ma propre initiative en dehors du temps du test, pour
