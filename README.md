@@ -1,23 +1,20 @@
-# Cas technique Habitat — Patrimoine arboré public d'Outremont
+# Habitat — Patrimoine arboré public d'Outremont
 
-Dépôt réalisé en réponse au cas technique proposé par Habitat (analyse de la
-composition des arbres publics de l'arrondissement d'Outremont, données de la
-Ville de Montréal).
+Analyse de la composition des arbres publics de l'arrondissement d'Outremont, données de la
+Ville de Montréal.
 
 ## Structure du dépôt
 
 ```
 .
-├── cas_technique_R/            # LE LIVRABLE OFFICIEL — répond strictement au mandat, en R
-├── exploration_complementaire/ # Démarche personnelle hors mandat — SQL/DuckDB, Julia, QGIS
-├── presentation_orale/         # Notes pour la présentation orale de 3 minutes
-└── README.md                   # Ce fichier
+├── R/                              # LE LIVRABLE OFFICIEL — répond strictement au mandat, en R
+├── exploration_complementaire/     # Démarche personnelle hors mandat — SQL/DuckDB, Julia, QGIS         
+└── README.md                  
 ```
 
 ### Pourquoi cette séparation
 
-Le mandat demandait explicitement une **analyse reproductible en R**, réalisable
-en 60 à 90 minutes, évaluée notamment sur la maîtrise de R et du package `sf`
+Le mandat demandait explicitement une **analyse reproductible en R**, évaluée notamment sur la maîtrise de R et du package `sf`
 (20 % de la pondération). Le dossier `cas_technique_R/` répond exactement à ça,
 sans rien d'autre.
 
@@ -36,7 +33,6 @@ polyvalence réelle sans brouiller ce que le cas technique doit démontrer.
 
 1. **Livrable du cas technique** : voir `cas_technique_R/README.md`
 2. **Exploration complémentaire** : voir `exploration_complementaire/README.md`
-3. **Présentation orale** : voir `presentation_orale/notes_3_minutes.md`
 
 ## Stack utilisé
 
@@ -49,12 +45,4 @@ polyvalence réelle sans brouiller ce que le cas technique doit démontrer.
 | QGIS | Vérification visuelle de la cohérence spatiale |
 | Docker | Reproductibilité de l'environnement R et Julia |
 
-## À compléter avant l'envoi
 
-- [ ] Ajouter le projet QGIS réel dans `exploration_complementaire/qgis/`
-      (actuellement un placeholder — voir le README de ce dossier)
-- [ ] Vérifier que `data/arbres_outremont.csv` correspond bien à l'export final
-      utilisé (date dans le nom de fichier : 2026-01-12)
-- [ ] Relire `presentation_orale/notes_3_minutes.md` et la reformuler avec tes
-      propres mots avant l'oral — ce sont des notes de structure, pas un texte
-      à lire
