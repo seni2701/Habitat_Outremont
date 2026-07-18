@@ -31,7 +31,7 @@ polyvalence réelle sans brouiller ce que le cas technique doit démontrer.
 
 ## Pour commencer
 
-1. **Livrable du cas technique** : voir `cas_technique_R/README.md`
+1. **Livrable du cas technique** : voir `R/README.md`
 2. **Exploration complémentaire** : voir `exploration_complementaire/README.md`
 
 ## Stack utilisé
