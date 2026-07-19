@@ -19,10 +19,3 @@ dépend pas d'un artefact propre à un langage ou une librairie donnée.
 Chaque sous-dossier part du fichier `outputs/arbres_nettoyes.csv` produit par le
 script R — il n'y a pas de nouvelle collecte ou de nouveau nettoyage de données ici,
 seulement une revalidation des résultats déjà obtenus.
-
-## Pourquoi le présenter ainsi
-
-Un cas technique évalue une compétence précise dans un cadre précis. Faire
-passer un travail exploratoire personnel pour une partie du livrable officiel
-fausserait ce que l'évaluateur cherche à mesurer. Le séparer clairement permet
-de montrer une polyvalence réelle sans diluer ni maquiller la réponse au mandat.
