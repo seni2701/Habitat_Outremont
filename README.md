@@ -26,9 +26,6 @@ mes projets réels (EcoSpatial, CARTHAB) : ne jamais faire confiance à un seul
 langage ou une seule librairie pour un résultat qui doit être fiable, et
 vérifier la cohérence spatiale visuellement plutôt que de la supposer.
 
-Je préfère cette séparation à un dépôt qui mélangerait tout : ça montre ma
-polyvalence réelle sans brouiller ce que le cas technique doit démontrer.
-
 ## Pour commencer
 
 1. **Livrable du cas technique** : voir `R/README.md`
