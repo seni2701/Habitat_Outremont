@@ -20,9 +20,9 @@ sans rien d'autre.
 
 Le dossier `exploration_complementaire/` documente un travail que j'ai fait de
 mon propre chef, en dehors du temps du test, pour revalider les résultats avec
-d'autres outils de mon stack habituel (SQL/DuckDB, Julia, QGIS). Ce n'est pas
-une deuxième version du livrable — c'est une pratique que j'applique aussi dans
-mes projets réels (EcoSpatial, CARTHAB) : ne jamais faire confiance à un seul
+d'autres outils de mon stack habituel (SQL/DuckDB, Julia, QGIS).
+
+Ne jamais faire confiance à un seul
 langage ou une seule librairie pour un résultat qui doit être fiable, et
 vérifier la cohérence spatiale visuellement plutôt que de la supposer.
 
