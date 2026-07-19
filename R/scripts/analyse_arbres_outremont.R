@@ -4,7 +4,7 @@
 # spatialisation et exports.
 #
 # Ce script est conçu pour être exécuté depuis la racine du dossier
-# `cas_technique_R/` (via `Rscript analyse_arbres_outremont.R` ou en
+# `R/` (via `Rscript analyse_arbres_outremont.R` ou en
 # ouvrant le projet dans RStudio). Aucun chemin absolu n'est requis.
 # =====================================================================
 
