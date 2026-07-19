@@ -1,4 +1,4 @@
-# Exploration complémentaire (hors mandat du cas technique)
+# Exploration complémentaire
 
 Ce qui suit est une initiative personnelle, réalisée en dehors du temps du test,
 pour valider les résultats obtenus en R avec d'autres outils de mon stack
