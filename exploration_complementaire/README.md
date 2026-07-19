@@ -1,12 +1,8 @@
 # Exploration complémentaire
 
-Ce qui suit est une initiative personnelle, réalisée en dehors du temps du test,
-pour valider les résultats obtenus en R avec d'autres outils de mon stack
+Les résultats obtenus en R avec d'autres outils de mon stack
 technique habituel, et pour montrer comment j'aborde la reproductibilité et le
-contrôle qualité inter-outils dans mon travail courant (EcoSpatial, CARTHAB).
-L'objectif n'est pas de refaire l'analyse en plusieurs langages pour impressionner,
-mais de documenter une pratique réelle : vérifier qu'un résultat statistique ne
-dépend pas d'un artefact propre à un langage ou une librairie donnée.
+contrôle qualité inter-outils dans mon travail courant (EcoSpatial, CARTHAB et UTI de Montréal).
 
 ## Contenu
 
