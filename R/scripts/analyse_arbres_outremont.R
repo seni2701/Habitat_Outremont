@@ -1,5 +1,5 @@
 # =====================================================================
-# CAS TECHNIQUE HABITAT — ARBRES PUBLICS D'OUTREMONT
+# ARBRES PUBLICS D'OUTREMONT
 # Importation, nettoyage, contrôle qualité, statistiques, graphiques,
 # spatialisation et exports.
 #
